@@ -1,6 +1,6 @@
 # About me 👩‍💻 
 
-- 🔭 I’m currently working on ... Harvard's CS50 and CS50AI
-- 🌱 I’m currently learning ... Python for AI
+- 🔭 I’m currently working on ... Machine Learning Engineering
+- 🌱 I’m currently learning ... C, Python, Pandas
 - 💬 Ask me about ... Entrepreneurship, Design Thinking, Working at Amazon
 - 📫 How to reach me: ... zajicek.brianna@gmail.com
